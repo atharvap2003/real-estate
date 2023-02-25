@@ -1,0 +1,8 @@
+@media screen and (max-width: 1520px) {
+    :root{
+      --pagepadding:85px 155px;
+    }
+    .image img{
+      width:480px;
+    }
+  }
